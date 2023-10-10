@@ -26,7 +26,7 @@ void draw() {
     die.roll();
     die.show();
     total += die.value;
-  }
+  } 
   displayTotal();
 }
 
